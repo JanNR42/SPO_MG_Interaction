@@ -33,7 +33,7 @@ Im Logic App Designer kann nun über eine HTTP Action ein Request der Sharepoint
    - <b> URI: https://graph.microsoft.com/v1.0/sites/tenant.sharepoint.com:/sites/SharePointSeite:/
 3. Auf Add new parameter -> Authentication -> Managed Identity auswählen
    1. ![IMAGE OF HTTP ACTION](/pics/http_action1.png)
-   2. ![IMAGE OF HTTP ACTION 2](/pics/http_action2.png) Audience= "https://graph.microsoft.com" 
+   2. ![IMAGE OF HTTP ACTION 2](/pics/http_action2.png) <br> Audience= "https://graph.microsoft.com" 
 
 ## SUCCESS
 
